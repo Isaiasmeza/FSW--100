@@ -1,0 +1,13 @@
+.image {
+    float:left;
+    Left:200px;
+    height:350px;
+    padding-right:30px;
+}   
+p {
+    font-size:20px;
+}
+div {
+    height:300px;
+    margin-top:300px;
+}
