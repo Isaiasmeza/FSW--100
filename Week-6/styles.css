@@ -1,0 +1,17 @@
+.flex {
+    display:flex;
+
+
+}
+.box {
+    width:200px;
+    height:200px;
+    background-color:yellow;
+    margin:20px;
+}
+.box:hover {
+    background-color:red;
+    width:300px;
+    transition-duration: 5s;
+
+}
