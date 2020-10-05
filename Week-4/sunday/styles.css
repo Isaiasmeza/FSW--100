@@ -1,11 +1,7 @@
 html, body {
     background-color: lightgoldenrodyellow
 }
-.title {
-font-family: Georgia, 'Times New Roman', Times, serif;
-background-color:lightgray;
-font-size:55px;
-}
+
 h4 {
     border:2px solid black;
 }

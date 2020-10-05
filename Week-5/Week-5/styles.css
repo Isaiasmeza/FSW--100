@@ -1,37 +1,28 @@
-html{
+div {
     display:grid;
-    grid-template-columns: repeat(4,4fr);
+    grid-template-columns: 100px 100px 100px 100px;
+    
+    
 }
 nav {
     background-color:#F5C6D6;
-    grid-column:1/5;
-    height:150px;
+    
 }
 
 footer {
     background-color:#ee2e84;
-    grid-column:3/5;
-    height:200px;
+   
 }
  Main {
      background-color:#8DC63F;
-     grid-column:2/5;
-     height:200px;
+    
  }
- @media only and (min-width:768px) and (max-width:768px)
+header {
+    Background-color:#E76E34;
+    grid-column: 1 / 5;
+    
+}
+
+
  
- nav {
-    grid-column:1/5;
-    height:200px;
-}
-
-footer {
-    background-color:#ee2e84;
-    grid-column:3/5;
-    height:200px;
-}
- Main {
-     background-color:#8DC63F;
-     grid-column:2/5;
-     height:200px;
- }
+ 
